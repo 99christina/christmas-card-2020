@@ -1,0 +1,277 @@
+/* screen - desktop-1 */
+
+.abcprophettrial-regular-normal-indigo-28px {
+  color: var(--indigo);
+  font-family: 'ABC Prophet Trial-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-class-1 {
+
+}
+.border-class-2 {
+  border: 3px solid var(--buddha-gold);
+}
+.border-class-3 {
+
+}
+.desktop-1 {
+  background-color: var(--mercury);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1278px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.desktop-1 .brussels-s-hini-25042-dp4W7L {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 218px);
+  letter-spacing: 0.00px;
+  line-height: 18.8px;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  width: 381px;
+}
+.desktop-1 .caption-te-uote-25043-dp4W7L {
+  background-color: transparent;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 443px;
+  width: 365px;
+}
+.desktop-1 .christina-2520-dp4W7L {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 84px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 693px;
+  width: auto;
+}
+.desktop-1 .desktop-2-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 9px 28px rgba(0,0,0,0.05) , 0px 6px 16px rgba(0,0,0,0.08) , 0px 3px 6px rgba(0,0,0,0.12);;
+  height: 827px;
+  left: calc(50.00% - 581px);
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 414px);
+  width: 1162px;
+}
+.desktop-1 .frame-5-CPqE3F {
+  background-color: var(--zircon);
+  height: 827px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 581px;
+}
+.desktop-1 .frame-6-CPqE3F {
+  background-color: var(--baby-powder);
+  height: 827px;
+  left: 581px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 581px;
+}
+.desktop-1 .frame-7-zSpldU {
+  background-color: var(--orange-white);
+  height: 60px;
+  left: calc(50.00% - 178px);
+  pointer-events: auto;
+  position: absolute;
+  top: 674px;
+  transition: all 0.2s ease;
+  width: 357px;
+}
+.desktop-1 .frame-7-zSpldU:hover {
+
+transform: rotate(15deg);
+}
+.desktop-1 .group-2-zSpldU {
+  background-color: transparent;
+  height: 575px;
+  left: 33px;
+  position: absolute;
+  top: 69px;
+  width: 521px;
+}
+.desktop-1 .merry-christmas-dp4W7L {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% - 217px);
+  position: absolute;
+  top: 79px;
+  width: 412px;
+}
+.desktop-1 .nameee-dp4W7L {
+  background-color: transparent;
+  height: 43px;
+  left: calc(50.00% - 214px);
+  position: absolute;
+  top: 128px;
+  width: 223px;
+}
+.desktop-1 .open-gift-25218-Tcqdt2 {
+  background-color: transparent;
+  height: 38px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 337px;
+}
+.desktop-1 .rectangle-6-C61RwL {
+  background-color: var(--mercury);
+  height: 1024px;
+  left: -560px;
+  position: absolute;
+  top: 0px;
+  width: 2560px;
+}
+.dmmono-light-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: 'DM Mono', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 300;
+}
+.helvetica-light-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: 'Helvetica-Light', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.helvetica-light-fuscous-gray-28px {
+  color: var(--fuscous-gray);
+  font-family: 'Helvetica-Light', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+}
+:root {
+  --baby-powder: rgba(252,252,252,1.0);
+  --buddha-gold: rgba(210,164,0,1.0);
+  --fuscous-gray: rgba(82,82,82,1.0);
+  --indigo: rgba(84,107,192,1.0);
+  --mercury: rgba(229,229,229,1.0);
+  --orange-white: rgba(251,248,236,1.0);
+  --white: rgba(255,255,255,1.0);
+  --zircon: rgba(242,251,255,1.0);
+}
+/* screen - iphone-se-1 */
+
+.abcprophettrial-regular-normal-indigo-28px {
+  color: var(--indigo);
+  font-family: 'ABC Prophet Trial-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-class-1 {
+
+}
+.border-class-2 {
+  border: 3px solid var(--buddha-gold);
+}
+.border-class-3 {
+
+}
+.dmmono-light-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: 'DM Mono', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 300;
+}
+.helvetica-light-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: 'Helvetica-Light', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.helvetica-light-fuscous-gray-28px {
+  color: var(--fuscous-gray);
+  font-family: 'Helvetica-Light', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+}
+.iphone-se-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 568px;
+  min-width: 320px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.iphone-se-1 .merry-chri-code-27066-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 133px);
+  letter-spacing: 0.00px;
+  line-height: 18.8px;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: 269px;
+}
+.iphone-se-1 .rectangle-11-C61RwL {
+  background-color: var(--mercury);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.iphone-se-1 .x37-jfaj43--s399-27067-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 133px);
+  letter-spacing: 0.00px;
+  line-height: 18.8px;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  white-space: nowrap;
+  width: 269px;
+}
+:root {
+  --baby-powder: rgba(252,252,252,1.0);
+  --buddha-gold: rgba(210,164,0,1.0);
+  --fuscous-gray: rgba(82,82,82,1.0);
+  --indigo: rgba(84,107,192,1.0);
+  --mercury: rgba(229,229,229,1.0);
+  --orange-white: rgba(251,248,236,1.0);
+  --white: rgba(255,255,255,1.0);
+  --zircon: rgba(242,251,255,1.0);
+}
+@media screen and (max-width: 1277px) {
+  .desktop-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1278px) {
+  .iphone-se-1 { 
+    display: none;
+   }
+}
